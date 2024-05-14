@@ -1,0 +1,16 @@
+{
+  "float": [
+    {
+      "name": "float4",
+      "value": "4vp"
+    },
+    {
+      "name": "float10",
+      "value": "10fp"
+    },
+    {
+      "name": "float20",
+      "value": "20fp"
+    }
+  ]
+}
